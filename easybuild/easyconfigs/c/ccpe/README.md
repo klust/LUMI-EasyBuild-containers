@@ -612,6 +612,12 @@ srun singularity exec $SIFCCPE hybrid_check
 
 ## EasyBuild
 
+### Version 24.03-noRocm-SP5-LUMI-26.01
+
+Developed for a particular user after doing the container for 26.03 and a derivative
+from that one, so first check the text for that container.
+
+
 ### Versions 24.11-*-rocm-6.2-LUMI
 
 The `-LUMI` versions (currently the only ones offered) are built specifically to
